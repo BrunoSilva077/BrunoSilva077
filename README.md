@@ -40,4 +40,4 @@ Happy coding! 🚀
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brunosilva077&show_icons=true&theme=dracula&locale=en" alt="brunosilva077" /></p>
 
-![snake animation](https://github.com/BrunoSilva077/BrunoSilva077/blob/output/github-contribution-grid-snake2.svg)
+![snake gif](https://github.com/BrunoSilva077/BrunoSilva077/blob/output/github-contribution-grid-snake.gif)
