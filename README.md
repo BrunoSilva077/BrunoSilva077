@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bruno</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brunosilva077&label=Profile%20views&color=0e75b6&style=flat" alt="brunosilva077" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunosilva077&label=Profile%20views&color=0e75b6&style=flat" alt="brunosilva077" /> </p> -->
+
 
 
 I'm a 21-year-old aspiring Front-end Developer from Portugal 🇵🇹, currently on the verge of completing my Bachelor's degree in Computer Engineering.
