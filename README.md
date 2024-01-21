@@ -25,7 +25,7 @@ I'm a 21-year-old aspiring Front-end Developer from Portugal 🇵🇹, currently
 
 📫 **How to Reach Me:**
 - Email: brunosilva1012003@gmail.com
-- Discord: ![Discord](https://img.shields.io/badge/Discord-hazy6075%230000-blue?style=for-the-badge&logo=discord)
+- Discord: ![Discord](https://img.shields.io/badge/Discord-hazy6075-blue?style=for-the-badge&logo=discord)
 - Linkedin: <a href="https://linkedin.com/in/brunogsilvaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brunogsilvaa" height="30" width="40" /></a>
 
 
