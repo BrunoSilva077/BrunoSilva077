@@ -4,6 +4,8 @@
 
 
 I'm a 21-year-old aspiring Front-end Developer from Portugal 🇵🇹, currently on the verge of completing my Bachelor's degree in Computer Engineering.
+<Img align="right" src="https://lanyard.cnrad.dev/api/324633935935963138?bg=none&showDisplayName=true"/>
+
 
 🎓 **Education:**
 - Graduating in Computer Engineering.
