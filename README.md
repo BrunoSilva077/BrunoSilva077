@@ -3,12 +3,12 @@
 
 
 
-I'm a 21-year-old aspiring Front-end Developer from Portugal 🇵🇹, currently on the verge of completing my Bachelor's degree in Computer Engineering.
+I'm a 21-year-old aspiring Front-end Developer from Portugal 🇵🇹, recently graduated with a Bachelor's degree in Computer Engineering.
 <Img align="right" src="https://lanyard.cnrad.dev/api/324633935935963138?bg=none&showDisplayName=true"/>
 
 
 🎓 **Education:**
-- Graduating in Computer Engineering.
+- Graduated in Computer Engineering.
 
 💻 **Passion:**
 - Discovered my passion for Front-end development and aspire to pursue it in my future endeavors.
@@ -21,10 +21,12 @@ I'm a 21-year-old aspiring Front-end Developer from Portugal 🇵🇹, currently
 - Enthusiastic about the dynamic and ever-evolving world of web development.
 
 🌱 **Currently Learning:**
-- Exploring React and improving my JavaScript skills.
+- Exploring advanced concepts in React.
+- Continuously improving my JavaScript skills.
 
 📚 **Current Focus:**
-- Wrapping up my degree and delving deeper into Front-end technologies.
+- Delving deeper into Front-end technologies.
+- Building projects to enhance my skills and portfolio.
 
 📫 **How to Reach Me:**
 - Email: brunosilva1012003@gmail.com
