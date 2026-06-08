@@ -15,7 +15,6 @@ My work focuses mainly on frontend development with React, TypeScript, and Solid
 📫 **Contact:**
 - 📧 Email: brunosilva1012003@gmail.com
 - 💼 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunogsilvaa/)
-- 🌍 Porto, Portugal
 
 
 Let's connect and build something amazing together! Feel free to explore my repositories and reach out for collaborations or discussions.
