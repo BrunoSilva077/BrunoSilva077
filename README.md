@@ -1,32 +1,21 @@
 <h1 align="center">Hi 👋, I'm Bruno</h1>
 
 
+I'm a Full-Stack Developer from Portugal with nearly 2 years of professional experience building healthcare, insurance, and financial applications.
 
-I'm a 23-year-old aspiring full-stack Developer from Portugal 🇵🇹, recently graduated with a Bachelor's degree in Computer Engineering.
+My work focuses mainly on frontend development with React, TypeScript, and SolidJS, while also contributing to backend services using Spring Boot, .NET, NestJS, and Go.
 
-
-
-🎓 **Education:**
-- Bachelor's degree in Computer Engineering.
-
-💻 **Passion:**
-- Discovered my passion for web development and aspire to pursue it in my future endeavors.
-
-🌍 **Location:**
-- Based in Portugal.
-
-🚀 **About Me:**
-- Eager to bring user interfaces to life and create seamless web experiences.
-- Enthusiastic about the dynamic and ever-evolving world of web development.
-
-🌱 **Currently Learning:**
-- Exploring architectures and learning new BE languages like GO
-- Continuously improving my JavaScript/typescript skills.
+🚀 **Currently Exploring:**
+- Go
+- Software Architecture
+- Distributed Systems
+- Backend Design Patterns
 
 
-📫 **How to Reach Me:**
-- Email: brunosilva1012003@gmail.com
-- Linkedin: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunogsilvaa/) 
+📫 **Contact:**
+- 📧 Email: brunosilva1012003@gmail.com
+- 💼 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunogsilvaa/)
+- 🌍 Porto, Portugal
 
 
 Let's connect and build something amazing together! Feel free to explore my repositories and reach out for collaborations or discussions.
@@ -83,6 +72,6 @@ Happy coding! 🚀
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) 
+![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) 
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
