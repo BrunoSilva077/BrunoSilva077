@@ -41,7 +41,6 @@ My work focuses mainly on frontend development with React, TypeScript, and Solid
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge\&logo=jira\&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge\&logo=playwright\&logoColor=white)
 
----
 
 ## 📚 Additional Technologies
 
